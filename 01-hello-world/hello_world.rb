@@ -1,5 +1,4 @@
-# hello_world.rb
-
+# Name: Sumaiyah
 class HelloWorld
     def self.hello(name = 'World')
       "Hello, #{name}!"

@@ -1,3 +1,4 @@
+#Name: Sumaiyah
 class Pangram
     def self.is_pangram?(str)
       alphabet = ('a'..'z').to_a
